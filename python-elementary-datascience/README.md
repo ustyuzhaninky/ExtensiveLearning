@@ -41,32 +41,33 @@ __На данный момент курс находится в разработ
 ## (EN) Data Science Elementary with Python
 This course is fit for beginners in python and programming. It’s strongly recommended watching through the lecture materials before starting the exercises.
 
+
 Course includes:
-  * Data processing basics;
-  * Frequency analysis basics;
-  * Statistics basics;
-  * packages pandas and scipy;
-  * Dependency modelling;
-  * Clustering;
-  * Data filtration;
-  * Theoretical basis;
-  * Interactive practice lessons.
-  
- Skills required:
-  * python 3 syntax;
-  * University course of Math;
-  * Discretic Math;
-  * Complex Number Theory;
-  * Ability to work with jupyter notebook.
-  
- Software needed:
-  * python 3.5+;
-  * jupyter notebook;
-  * pandas, sklearn, openpyxl, matplotlib;
-  * Tool for viewing *.pptx files.
+  * Data processing basics;
+  * Frequency analysis basics;
+  * Statistics basics;
+  * packages pandas and scipy;
+  * Dependency modelling;
+  * Clustering;
+  * Data filtration;
+  * Theoretical basis;
+  * Interactive practice lessons.
+
+Skills required:
+  * python 3 syntax;
+  * University course of Math;
+  * Discretic Math;
+  * Complex Number Theory;
+  * Ability to work with jupyter notebook.
+
+Software needed:
+  * python 3.5+;
+  * jupyter notebook;
+  * pandas, sklearn, openpyxl, matplotlib;
+  * Tool for viewing *.pptx files.
 
 Lectures available:
-  - [Lecture 4: Basic frequency analysis]
+  - [Lecture 4: Basic frequency analysis]
 
 __The course is at its development stage. Please, notify the [author] about all the ***issues*** found.__
 
