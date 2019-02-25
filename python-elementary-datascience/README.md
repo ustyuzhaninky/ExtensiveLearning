@@ -70,12 +70,12 @@ Software needed:
 
 Lectures available:
   - [Lecture 4: Basic Frequency Analysis]
-  - [Lecture 5: Model study basis]
+  - [Lecture 5: Model Study Basis]
 
 __The course is at its development stage. Please, notify the [author] about all the ***issues*** found.__
 
 [Lecture 4: Basic Frequency Analysis]: https://github.com/ustyuzhaninky/ExtensiveLearning/blob/master/python-elementary-datascience/Lectures/4-frequency-analysis-basis.pptx (../Lectures/4-frequency-analysis-basis.pptx)
-[Lecture 5: Model Dtudy Basis]: https://github.com/ustyuzhaninky/ExtensiveLearning/blob/master/python-elementary-datascience/Lectures/5-model-study-basis.pptx (../Lectures/5-model-study-basis.pptx)
+[Lecture 5: Model Study Basis]: https://github.com/ustyuzhaninky/ExtensiveLearning/blob/master/python-elementary-datascience/Lectures/5-model-study-basis.pptx (../Lectures/5-model-study-basis.pptx)
 
 [author]: https://github.com/ustyuzhaninky/
 
