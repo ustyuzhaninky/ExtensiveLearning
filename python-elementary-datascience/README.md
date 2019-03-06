@@ -30,11 +30,13 @@
 Список занятий в курсе:
   - [Лекция 4: Частотный анализ: Основы]
   - [Лекция 5: Моделирование зависимостей: Основы]
+  - [Лекция 6: Аппроксимация]
 
 __На данный момент курс находится в разработке. Пожалуйста, сообщайте обо всех ***ляпах*** в личку [автору].__
 
 [Лекция 4: Частотный анализ: Основы]: https://github.com/ustyuzhaninky/ExtensiveLearning/blob/master/python-elementary-datascience/Lectures/4-frequency-analysis-basis.pptx (../Lectures/4-frequency-analysis-basis.pptx)
 [Лекция 5: Моделирование зависимостей: Основы]: https://github.com/ustyuzhaninky/ExtensiveLearning/blob/master/python-elementary-datascience/Lectures/5-model-study-basis.pptx (../Lectures/5-model-study-basis.pptx)
+[Лекция 6: Аппроксимация]: https://github.com/ustyuzhaninky/ExtensiveLearning/blob/master/python-elementary-datascience/Lectures/6-approximation.pptx (..Lectures/6-approximation.pptx)
 [автору]: https://github.com/ustyuzhaninky/
 [автор]: https://github.com/ustyuzhaninky/
 
@@ -71,11 +73,13 @@ Software needed:
 Lectures available:
   - [Lecture 4: Basic Frequency Analysis]
   - [Lecture 5: Model Study Basis]
-
+  - [Lecture 6: Approximation]
+ 
 __The course is at its development stage. Please, notify the [author] about all the ***issues*** found.__
 
 [Lecture 4: Basic Frequency Analysis]: https://github.com/ustyuzhaninky/ExtensiveLearning/blob/master/python-elementary-datascience/Lectures/4-frequency-analysis-basis.pptx (../Lectures/4-frequency-analysis-basis.pptx)
 [Lecture 5: Model Study Basis]: https://github.com/ustyuzhaninky/ExtensiveLearning/blob/master/python-elementary-datascience/Lectures/5-model-study-basis.pptx (../Lectures/5-model-study-basis.pptx)
+[Lecture 6: Approximation]: https://github.com/ustyuzhaninky/ExtensiveLearning/blob/master/python-elementary-datascience/Lectures/6-approximation.pptx (..Lectures/6-approximation.pptx)
 
 [author]: https://github.com/ustyuzhaninky/
 
